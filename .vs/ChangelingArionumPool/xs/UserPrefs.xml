@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{77923FD1-A989-40EE-92DE-B8C8CA8B375D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChangelingArionumPool Status">
+    <Files>
+      <File FileName="ChangelingArionumPool/app.config" Line="18" Column="17" />
+      <File FileName="ChangelingArionumPool/appsettings.json" Line="1" Column="1" />
+      <File FileName="ChangelingArionumPool/Controllers/PoolAPIController.cs" Line="1" Column="1" />
+      <File FileName="ChangelingArionumPool Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ChangelingArionumPool PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
